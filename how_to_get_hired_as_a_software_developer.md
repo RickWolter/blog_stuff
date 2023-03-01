@@ -1,8 +1,12 @@
 # How to get hired as a software developer.
 
-Getting into the tech industry as a programmer can be a challenging and exciting journey. With ever-evolving technology and high demand for skilled developers, the tech industry offers ample opportunities for growth and success. To help aspiring programmers navigate this path, here is a not at all comprehensive guide on how to make that happen.  There are only two key things you need to focus on: that's it, only two. These two things are incredibly important though. As in, cannot be skipped important. It's the dual secret sauce for finding your software development job. I'm talking about networking and skills. Build a network and develop your skills and you'll find an opportunity. I've never seen someone have both things and NOT get an opportunity. In this blog, we'll discuss how to achieve these things. Regardless of background or signal, you'll need both skills and a network.
+Getting into the tech industry as a programmer can be a challenging and exciting journey. With ever-evolving technology and high demand for skilled developers, the tech industry offers ample opportunities for growth and success. To help aspiring programmers navigate this path, here is a not at all comprehensive guide on how to make that happen.
 
-# Build a network.
+### Only 2 Things
+
+There are only two key things you need to focus on: that's it, only two. These two things are incredibly important though. As in, cannot be skipped important. It's the dual secret sauce for finding your software development job. I'm talking about networking and skills. Build a network and develop your skills and you'll find an opportunity. I've never seen someone have both things and NOT get an opportunity. In this blog, we'll discuss how to achieve these things. Regardless of background or signal, you'll need both skills and a network.
+
+# 1. Build your network.
 
 Networking is necessary in many industries and the tech industry is no exception. You'll need to begin networking long before you need the network to get interviews so the quicker you get started on this the better off you'll be and the faster you might get qa referral. Obtaining a referral greatly increases your chances of getting an interview. Even if you don't get a referral, you'll gain knowledge from other developers and possibly insight as to who is hiring that you otherwise might have missed. If developers know you, they're more likely to mention your name if someone is looking for your given skill set. This can potentially lead to skipping some of the interview steps altogether.
 
@@ -22,7 +26,7 @@ Open-Source Projects: Contributing to open-source projects can help you build re
 
 Conferences: Attending conferences and workshops can help you meet other developers, learn about new technologies, and get feedback on your work. Many well-known leaders within software development communities speak at these events so it's a great time to introduce yourself and possibly meet a highly experienced developer you otherwise wouldn't. Examples are Worldwide Developer conference by Apple (https://developer.apple.com/wwdc22/), Microsoft's Ignite, Open-Source Summit (https://events.linuxfoundation.org/open-source-summit-north-america/), and Pycon (https://pycon.org).
 
-# Develop your Skills.
+# 2. Develop your Skills.
 
 After you've started networking it's time to get to work. Software development is a high paying skill and programming is foundation of that. To be successful in the tech industry, you need to have a strong foundation in programming. So, developing your skills is essential to becoming a successful software developer.
 
